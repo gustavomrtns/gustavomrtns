@@ -18,7 +18,7 @@ Busco fazer interseccionalidade em **Gestão de Pessoas nas Organizações e Cib
 |---|---|---|---|
 | Gestão de Pessoas · T&D · Onboarding · Offboarding · Employee Experience · Employer Branding | Mapeamento de Processos · Scrum · Kanban · Melhoria Contínua · OKRs · Governança | People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS | DISC · Psicologia Organizacional · Cultura · Engajamento · DEI · ESG |
 
-> **Para recrutadores:** este GitHub é uma extensão do meu currículo e portfólio. Os repositórios apresentam projetos como **cases de Gestão de Pessoas**, destacando contexto, problema, minha atuação, solução e competências mobilizadas — e não apenas o código utilizado para construí-los.
+Os projetos apresentados aqui funcionam como **cases de Gestão de Pessoas**, evidenciando contexto, problema, minha atuação, solução construída e competências mobilizadas — com a tecnologia aplicada como meio para estruturar necessidades reais de RH.
 
 ---
 
