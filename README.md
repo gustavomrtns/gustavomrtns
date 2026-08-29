@@ -2,72 +2,73 @@
 
 ### Estrategista de Recursos Humanos | Agilista | Analista Técnico Comportamental DISC
 
-**Gestão de Pessoas · Psicologia Organizacional · Projetos & Processos · People Analytics · Inovação · ESG**
+**Gestão de Pessoas · Psicologia Organizacional · People Analytics · Projetos & Processos · Inovação · ESG**
 
-Profissional de Recursos Humanos com atuação multidisciplinar na interseção entre **pessoas, comportamento, processos, dados e tecnologia**. Desenvolvo projetos que transformam necessidades de RH em fluxos estruturados, ferramentas digitais, indicadores e experiências de gestão.
+Transformo necessidades de **Gestão de Pessoas** em processos estruturados, experiências de RH, indicadores e soluções digitais. Minha atuação conecta **pessoas, comportamento, processos, dados e tecnologia** para apoiar decisões, melhorar a experiência do colaborador e fortalecer a gestão.
 
 Busco fazer interseccionalidade em **Gestão de Pessoas nas Organizações e Ciberpsicologia**, abordando pilares de **Gestão de Processos, Psicologia Organizacional, Inovação e ESG**.
 
-[**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Repositório de Projetos**](https://github.com/gustavomrtns/projetos_rh)
+[**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Cases no GitHub**](https://github.com/gustavomrtns/projetos_rh)
 
 ---
 
-## Para recrutadores
+## Visão profissional
 
-Meu GitHub funciona como uma extensão do meu currículo e do meu portfólio profissional. Aqui, os projetos são apresentados como **cases de Gestão de Pessoas**, evidenciando o problema identificado, o raciocínio de processo, a solução construída e as competências mobilizadas.
-
-**Estratégia de RH**  
-Gestão de Pessoas · T&D · Onboarding · Offboarding · Performance · Employee Experience · Employer Branding
-
-**Projetos & Processos**  
-Mapeamento de Processos · Scrum · Kanban · Sprints · Melhoria Contínua · OKRs · Governança
-
-**Dados & Tecnologia**  
-People Analytics · Power BI · Python · SQL · HTML · CSS · JavaScript · IA aplicada a RH
-
-**Comportamento & Organizações**  
-Análise Comportamental DISC · Psicologia Organizacional · Cultura · Engajamento · DEI · ESG
-
----
-
-## Projeto flagship
-
-### ⭐ GT360º — Workspace de Gestão de Talentos
-
-Workspace de RH que integra **Fluxo de Onboarding** e **Painel de Treinamentos**, estruturando processos, dados e indicadores para melhorar rastreabilidade, experiência do colaborador e tomada de decisão.
-
-**Minha atuação:** mapeamento de processos, desenho de fluxos, estruturação da solução, lógica de indicadores, experiência de uso e integração das rotinas de RH.
-
-**Competências demonstradas:** Gestão de Pessoas · T&D · People Analytics · Processos · UX · Automação
-
-[**Ver case no GitHub**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) · [**Abrir aplicação**](https://gustavomrtns.github.io/projetos_rh/gt360/)
-
----
-
-## Projetos selecionados
-
-| Projeto | Problema / oportunidade | Solução desenvolvida | Competências |
+| Estratégia de RH | Projetos & Processos | Dados & Tecnologia | Comportamento & Organizações |
 |---|---|---|---|
-| **Quadro de Gestão — Kanban RH e Projetos** | Necessidade de maior visibilidade e priorização das demandas | Painel de gestão por status, prioridades, responsáveis, sprints e checklists | Agilidade · Projetos · Processos |
-| **Questionário de Desligamento** | Feedbacks de saída pouco estruturados | Ferramenta de offboarding para transformar percepções em dados organizados | Employee Experience · Pesquisa · Dados de RH |
-| **eu + horizonte — Intranet** | Necessidade de fortalecer comunicação e experiência interna | Protótipo de intranet voltado a comunicação, cultura e experiência digital | Comunicação Interna · Employer Branding · UX |
-| **Checklist 5S** | Auditorias e controles de conformidade pouco padronizados | Aplicação digital para avaliação, registro e acompanhamento de resultados | 5S · Processos · Indicadores |
-| **Avaliação de Experiência — CLT** | Necessidade de estruturar o acompanhamento do período de experiência | Ferramenta de avaliação para apoiar acompanhamento e tomada de decisão | Performance · Gestão de Pessoas · Dados |
-| **Avaliação de Prestadores — PJ** | Avaliação de fornecedores sem padronização | Modelo digital baseado em critérios contratuais e classificação de impacto | Governança · Processos · Avaliação |
+| Gestão de Pessoas · T&D · Onboarding · Offboarding · Employee Experience · Employer Branding | Mapeamento de Processos · Scrum · Kanban · Melhoria Contínua · OKRs · Governança | People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS | DISC · Psicologia Organizacional · Cultura · Engajamento · DEI · ESG |
 
-[**Explorar todos os projetos**](https://github.com/gustavomrtns/projetos_rh) · [**Ver portfólio visual**](https://gustavomrtns.github.io/projetos_rh/)
+> **Para recrutadores:** este GitHub é uma extensão do meu currículo e portfólio. Os repositórios apresentam projetos como **cases de Gestão de Pessoas**, destacando contexto, problema, minha atuação, solução e competências mobilizadas — e não apenas o código utilizado para construí-los.
 
 ---
 
-## Como estruturo meus cases
+## ⭐ Projeto flagship — GT360º
+
+### Workspace de Gestão de Talentos
+
+Solução de RH que integra **Fluxo de Onboarding** e **Painel de Treinamentos** em um único ambiente, estruturando processos, dados e indicadores para ampliar rastreabilidade, experiência do colaborador e capacidade de acompanhamento da área.
+
+**Problema trabalhado:** informações, etapas e controles de RH distribuídos em fluxos distintos, dificultando acompanhamento e visão gerencial.
+
+**Minha atuação:** mapeamento de processos · desenho de fluxos · requisitos e experiência de uso · estruturação da solução · lógica de indicadores · integração das rotinas de RH.
+
+**Competências:** Gestão de Pessoas · T&D · People Analytics · Gestão de Processos · UX · Automação
+
+[**Ver case completo →**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) &nbsp; [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
+
+---
+
+## Cases selecionados
+
+| Case | Desafio | Solução | Competências demonstradas |
+|---|---|---|---|
+| **Quadro de Gestão — Kanban RH e Projetos** | Visibilidade e priorização de demandas | Gestão por status, prioridades, responsáveis, sprints e checklists | Agilidade · Projetos · Processos |
+| **Questionário de Desligamento** | Feedbacks de saída pouco estruturados | Offboarding digital para organizar percepções e dados | Employee Experience · Pesquisa · Dados de RH |
+| **eu + horizonte — Intranet** | Comunicação e experiência interna | Intranet voltada a comunicação, cultura e experiência digital | Comunicação Interna · Employer Branding · UX |
+| **Checklist 5S** | Auditorias e controles pouco padronizados | Avaliação digital, registro e acompanhamento de resultados | 5S · Processos · Indicadores |
+| **Avaliação de Experiência — CLT** | Acompanhamento do período de experiência | Avaliação estruturada para apoiar acompanhamento e decisão | Performance · Gestão de Pessoas · Dados |
+| **Avaliação de Prestadores — PJ** | Avaliação sem padrão único | Modelo digital com critérios e classificação de impacto | Governança · Processos · Avaliação |
+
+[**Explorar repositório de projetos →**](https://github.com/gustavomrtns/projetos_rh) &nbsp; [**Ver experiência visual no portfólio →**](https://gustavomrtns.github.io/projetos_rh/)
+
+---
+
+## Como construo os cases
 
 **Contexto → Problema → Minha atuação → Solução → Tecnologia → Impacto → Competências demonstradas**
 
-Essa estrutura apresenta não apenas o produto final, mas principalmente **como penso, organizo e transformo problemas de Gestão de Pessoas em soluções aplicáveis**.
+A tecnologia é utilizada como **meio para resolver problemas de Gestão de Pessoas**. O foco dos projetos está no raciocínio de negócio, desenho de processos, experiência, dados e aplicabilidade da solução.
+
+### Stack aplicada aos projetos
+
+**People Analytics:** Power BI · SQL · Python · indicadores e dashboards  
+**Projetos & Agilidade:** Scrum · Kanban · sprints · melhoria contínua · OKRs  
+**Soluções digitais:** HTML · CSS · JavaScript · IA aplicada a RH  
+**Gestão de Pessoas:** T&D · Onboarding · Offboarding · Performance · Employee Experience · Comunicação Interna
 
 ---
 
-## Formação e desenvolvimento profissional
+## Formação e desenvolvimento
 
 - **MBA em Gestão de Projetos — USP/ESALQ** · em andamento
 - **Bacharelado em Psicologia — Faculdade Santa Teresa** · em andamento
@@ -78,4 +79,4 @@ Essa estrutura apresenta não apenas o produto final, mas principalmente **como 
 
 ## Conecte-se comigo
 
-[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**Projetos no GitHub**](https://github.com/gustavomrtns/projetos_rh)
+[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**Repositório de Projetos**](https://github.com/gustavomrtns/projetos_rh)
