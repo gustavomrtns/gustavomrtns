@@ -28,11 +28,11 @@ Os projetos abaixo funcionam como **cases de Gestão de Pessoas**, evidenciando 
 
 ### Workspace de Gestão de Talentos
 
-Solução de RH que integra **Fluxo de Onboarding** e **Painel de Treinamentos** em um único ambiente, estruturando processos, dados e indicadores para ampliar rastreabilidade, experiência do colaborador e capacidade de acompanhamento da área.
+Concepção de workspace digital de Gestão de Talentos, partindo do **mapeamento de dores dos processos de onboarding e T&D** até a definição de **fluxos, requisitos funcionais, indicadores e experiência do usuário**. A solução integra essas duas frentes em um único ambiente, ampliando rastreabilidade, organização das informações e capacidade de acompanhamento da área.
 
 **Problema trabalhado:** informações, etapas e controles de RH distribuídos em fluxos distintos, dificultando acompanhamento e visão gerencial.
 
-**Minha atuação:** mapeamento de processos · desenho de fluxos · requisitos e experiência de uso · estruturação da solução · lógica de indicadores · integração das rotinas de RH.
+**Minha atuação:** identificação de necessidades · mapeamento de processos · desenho de fluxos · definição e organização de requisitos funcionais · priorização de entregas · alinhamento com stakeholders · experiência de uso · lógica de indicadores · estruturação da solução.
 
 **Competências demonstradas:** Gestão de Pessoas · T&D · People Analytics · Gestão de Processos · UX · Automação
 
