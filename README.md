@@ -4,9 +4,11 @@
 
 **Gestão de Pessoas · Psicologia Organizacional · People Analytics · Projetos & Processos · Inovação · ESG**
 
-Transformo necessidades de **Gestão de Pessoas** em processos estruturados, experiências de RH, indicadores e soluções digitais. Minha atuação conecta **pessoas, comportamento, processos, dados e tecnologia** para apoiar decisões, melhorar a experiência do colaborador e fortalecer a gestão.
+Profissional de Recursos Humanos com atuação multidisciplinar na interseção entre **pessoas, comportamento, processos, dados e tecnologia**. Transformo necessidades de Gestão de Pessoas em fluxos estruturados, experiências digitais, indicadores e soluções que apoiam a tomada de decisão e a evolução dos processos de RH.
 
-Busco fazer interseccionalidade em **Gestão de Pessoas nas Organizações e Ciberpsicologia**, abordando pilares de **Gestão de Processos, Psicologia Organizacional, Inovação e ESG**.
+Minha trajetória reúne experiência em **Treinamento & Desenvolvimento, onboarding/offboarding, recrutamento, benefícios, Departamento Pessoal, clima, comunicação interna, projetos e People Analytics**, combinada a práticas de **Scrum, Kanban, Power BI, Python, SQL e Inteligência Artificial aplicada a RH**.
+
+Busco desenvolver uma atuação que conecte **Gestão de Pessoas nas Organizações e Ciberpsicologia**, articulando Gestão de Processos, Psicologia Organizacional, Inovação e ESG. Possuo **inglês intermediário**.
 
 [**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Cases no GitHub**](https://github.com/gustavomrtns/projetos_rh)
 
@@ -18,7 +20,7 @@ Busco fazer interseccionalidade em **Gestão de Pessoas nas Organizações e Cib
 |---|---|---|---|
 | Gestão de Pessoas · T&D · Onboarding · Offboarding · Employee Experience · Employer Branding | Mapeamento de Processos · Scrum · Kanban · Melhoria Contínua · OKRs · Governança | People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS | DISC · Psicologia Organizacional · Cultura · Engajamento · DEI · ESG |
 
-Os projetos apresentados aqui funcionam como **cases de Gestão de Pessoas**, evidenciando contexto, problema, minha atuação, solução construída e competências mobilizadas — com a tecnologia aplicada como meio para estruturar necessidades reais de RH.
+Os projetos abaixo funcionam como **cases de Gestão de Pessoas**, evidenciando problema, raciocínio de processo, minha atuação, solução desenvolvida, dados envolvidos e competências mobilizadas. A tecnologia aparece como meio para estruturar necessidades reais de RH.
 
 ---
 
@@ -32,39 +34,43 @@ Solução de RH que integra **Fluxo de Onboarding** e **Painel de Treinamentos**
 
 **Minha atuação:** mapeamento de processos · desenho de fluxos · requisitos e experiência de uso · estruturação da solução · lógica de indicadores · integração das rotinas de RH.
 
-**Competências:** Gestão de Pessoas · T&D · People Analytics · Gestão de Processos · UX · Automação
+**Competências demonstradas:** Gestão de Pessoas · T&D · People Analytics · Gestão de Processos · UX · Automação
 
 [**Ver case completo →**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) &nbsp; [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
 
 ---
 
-## Cases selecionados
+## Cases em destaque
 
-| Case | Desafio | Solução | Competências demonstradas |
-|---|---|---|---|
-| **Quadro de Gestão — Kanban RH e Projetos** | Visibilidade e priorização de demandas | Gestão por status, prioridades, responsáveis, sprints e checklists | Agilidade · Projetos · Processos |
-| **Questionário de Desligamento** | Feedbacks de saída pouco estruturados | Offboarding digital para organizar percepções e dados | Employee Experience · Pesquisa · Dados de RH |
-| **eu + horizonte — Intranet** | Comunicação e experiência interna | Intranet voltada a comunicação, cultura e experiência digital | Comunicação Interna · Employer Branding · UX |
-| **Checklist 5S** | Auditorias e controles pouco padronizados | Avaliação digital, registro e acompanhamento de resultados | 5S · Processos · Indicadores |
-| **Avaliação de Experiência — CLT** | Acompanhamento do período de experiência | Avaliação estruturada para apoiar acompanhamento e decisão | Performance · Gestão de Pessoas · Dados |
-| **Avaliação de Prestadores — PJ** | Avaliação sem padrão único | Modelo digital com critérios e classificação de impacto | Governança · Processos · Avaliação |
+A ordem abaixo segue a **escala de impacto adotada no portfólio**.
 
-[**Explorar repositório de projetos →**](https://github.com/gustavomrtns/projetos_rh) &nbsp; [**Ver experiência visual no portfólio →**](https://gustavomrtns.github.io/projetos_rh/)
+| # | Case | Problema / oportunidade | Solução desenvolvida | Competências demonstradas |
+|---|---|---|---|---|
+| **01** | **[GT360º — Workspace de Gestão de Talentos](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360)** | Processos de onboarding e T&D distribuídos em controles distintos | Workspace integrado com módulos de Onboarding e Painel de Treinamentos | Gestão de Pessoas · T&D · People Analytics · Processos · UX · Automação |
+| **02** | **[eu + horizonte — Intranet](https://github.com/gustavomrtns/projetos_rh/tree/main/eu-horizonte-intranet)** | Necessidade de centralizar comunicação e experiência interna | Intranet voltada à comunicação, cultura e jornada do colaborador | Comunicação Interna · Employee Experience · Employer Branding · UX |
+| **03** | **[Pesquisa de Engajamento Organizacional](https://github.com/gustavomrtns/projetos_rh/tree/main/pesquisa-engajamento-organizacional)** | Aplicação, tabulação e análise de pesquisas internas em fluxos dispersos | Plataforma para construção, aplicação, recortes demográficos e dashboard analítico | People Analytics · Engajamento · Employee Experience · Dados · UX |
+| **04** | **[Quadro de Gestão — Kanban RH e Projetos](https://github.com/gustavomrtns/projetos_rh/tree/main/quadro-gestao-kanban)** | Baixa visibilidade sobre demandas, prioridades e responsáveis | Gestão por status, prioridades, responsáveis, sprints e checklists | Agilidade · Projetos · Kanban · Processos |
+| **05** | **[Checklist 5S](https://github.com/gustavomrtns/projetos_rh/tree/main/checklist-5s)** | Auditorias e controles de conformidade pouco padronizados | Aplicação digital para avaliação, registro e acompanhamento de resultados | 5S · Melhoria Contínua · Processos · Indicadores |
+| **06** | **[Questionário de Desligamento](https://github.com/gustavomrtns/projetos_rh/tree/main/questionario-desligamento)** | Feedbacks de saída pouco estruturados e difíceis de comparar | Instrumento digital para coleta e organização de dados de offboarding | Employee Experience · Pesquisa · Dados de RH · Processos |
+| **07** | **[Avaliação de Prestadores — PJ](https://github.com/gustavomrtns/projetos_rh/tree/main/avaliacao-prestador-pj)** | Necessidade de critérios objetivos para acompanhamento de prestadores | Avaliação digital baseada em critérios contratuais e classificação de impacto | Governança · Fornecedores · Avaliação · Processos |
+| **08** | **[Avaliação de Experiência — CLT](https://github.com/gustavomrtns/projetos_rh/tree/main/avaliacao-experiencia-clt)** | Acompanhamento do período de experiência sem padronização | Ferramenta estruturada para avaliação, acompanhamento e apoio à decisão | Performance · Feedback · Gestão de Pessoas · Dados |
+
+[**Explorar todos os projetos →**](https://github.com/gustavomrtns/projetos_rh) &nbsp; [**Ver portfólio visual →**](https://gustavomrtns.github.io/projetos_rh/)
 
 ---
 
-## Como construo os cases
+## Como estruturo os cases
 
-**Contexto → Problema → Minha atuação → Solução → Tecnologia → Impacto → Competências demonstradas**
+**Contexto → Problema → Minha atuação → Solução → Tecnologia → Valor potencial → Competências demonstradas**
 
-A tecnologia é utilizada como **meio para resolver problemas de Gestão de Pessoas**. O foco dos projetos está no raciocínio de negócio, desenho de processos, experiência, dados e aplicabilidade da solução.
+O foco está no raciocínio de negócio e na aplicabilidade das soluções. Nos projetos demonstrativos, indicadores e dashboards conceituais são utilizados para representar possibilidades analíticas sem atribuir resultados reais que não tenham sido mensurados.
 
 ### Stack aplicada aos projetos
 
-**People Analytics:** Power BI · SQL · Python · indicadores e dashboards  
-**Projetos & Agilidade:** Scrum · Kanban · sprints · melhoria contínua · OKRs  
-**Soluções digitais:** HTML · CSS · JavaScript · IA aplicada a RH  
-**Gestão de Pessoas:** T&D · Onboarding · Offboarding · Performance · Employee Experience · Comunicação Interna
+**Gestão de Pessoas:** T&D · Onboarding · Offboarding · Performance · Employee Experience · Comunicação Interna  
+**People Analytics & Dados:** Power BI · SQL · Python · indicadores · dashboards · pesquisa organizacional  
+**Projetos & Agilidade:** Scrum · Kanban · sprints · mapeamento de processos · melhoria contínua · OKRs  
+**Soluções digitais:** HTML · CSS · JavaScript · IA aplicada a RH · automação de fluxos
 
 ---
 
@@ -72,8 +78,10 @@ A tecnologia é utilizada como **meio para resolver problemas de Gestão de Pess
 
 - **MBA em Gestão de Projetos — USP/ESALQ** · em andamento
 - **Bacharelado em Psicologia — Faculdade Santa Teresa** · em andamento
-- **Gestão de Recursos Humanos** · graduação concluída
+- **Gestão de Recursos Humanos — Faculdade Martha Falcão** · concluído
 - **Análise Técnica Comportamental DISC — Freedom Start** · certificado
+
+Formação complementar em **People Analytics, ESG, Departamento Pessoal, Indicadores de T&D, IA aplicada a RH, Tech Recruiter, Metodologias Ágeis e Análise de Dados**.
 
 ---
 
