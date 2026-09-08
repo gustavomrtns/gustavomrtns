@@ -10,13 +10,19 @@
 
 ---
 
-## Visão profissional
+## Áreas de atuação
 
-| Pessoas & Negócio | Produto & Projetos | Agilidade & Processos | Dados & Tecnologia |
-|---|---|---|---|
-| Gestão de Pessoas · Employee Experience · Psicologia Organizacional · Cultura · Engajamento | Identificação de Problemas · Necessidades · Escopo · Requisitos · Stakeholders · Priorização · Experiência do Usuário | Scrum · Kanban · Sprints · Gestão Visual · Melhoria Contínua · Fluxos · Facilitação | People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS |
+**Pessoas & Negócio**  
+Gestão de Pessoas · Employee Experience · Cultura · Engajamento · Psicologia Organizacional
 
-Os projetos abaixo funcionam como **cases de negócio, pessoas, produto e processos**, evidenciando o problema trabalhado, usuários e stakeholders envolvidos, raciocínio de processo, requisitos, solução desenvolvida, dados e competências mobilizadas. A tecnologia aparece como meio para estruturar necessidades reais e gerar valor potencial.
+**Produto & Projetos**  
+Necessidades · Escopo · Requisitos Funcionais · Stakeholders · Priorização · Experiência do Usuário
+
+**Agilidade & Processos**  
+Scrum · Kanban · Sprints · Gestão Visual · Mapeamento de Processos · Melhoria Contínua
+
+**Dados & Tecnologia**  
+People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS
 
 ---
 
