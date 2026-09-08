@@ -6,7 +6,7 @@
 
 > Transformo necessidades de negócio em processos estruturados, produtos digitais e decisões orientadas por dados.
 
-[**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Cases**](https://github.com/gustavomrtns/projetos_rh)
+[**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Contato**](mailto:manoel.gustavo@outlook.com)
 
 ---
 
@@ -76,6 +76,6 @@ Formação complementar em **People Analytics, IA aplicada a RH, Indicadores de 
 
 ---
 
-## Conecte-se comigo
+## Contato
 
-[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**Cases**](https://github.com/gustavomrtns/projetos_rh)
+[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**E-mail**](mailto:manoel.gustavo@outlook.com)
