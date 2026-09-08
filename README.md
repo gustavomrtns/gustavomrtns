@@ -1,4 +1,3 @@
-![Manoel Gustavo Gomes Martins — RH, Produto, Projetos, Agilidade e People Analytics]
 
 # Manoel Gustavo Gomes Martins
 
