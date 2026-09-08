@@ -1,17 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
-  <title id="title">Manoel Gustavo — RH, Produto, Projetos, Agilidade e People Analytics</title>
-  <desc id="desc">Banner minimalista em branco, vermelho, verde lima e preto.</desc>
-  <rect width="1280" height="300" fill="#ffffff"/>
-  <path d="M1120 0H1280V112C1240 102 1202 85 1174 58C1155 40 1137 18 1120 0Z" fill="#c71717"/>
-  <path d="M0 214C42 205 80 217 110 245C126 260 142 280 157 300H0V214Z" fill="#8fff00"/>
-  <path d="M1118 0C1137 40 1162 68 1194 88C1220 105 1247 114 1280 119" fill="none" stroke="#e7e7e7" stroke-width="2"/>
-  <path d="M0 202C51 197 93 211 126 243C145 261 159 279 174 300" fill="none" stroke="#ececec" stroke-width="2"/>
-  <rect x="88" y="60" width="52" height="4" rx="2" fill="#c71717"/>
-  <text x="88" y="108" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#111111">Manoel <tspan fill="#c71717">Gustavo</tspan></text>
-  <text x="88" y="148" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#515151">Recursos Humanos · Produto · Projetos · Agilidade · People Analytics</text>
-  <text x="88" y="187" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b6b6b">Pessoas, processos, produtos e dados em movimento.</text>
-  <g transform="translate(88,225)">
-    <circle cx="5" cy="5" r="5" fill="#8fff00"/>
-    <text x="22" y="11" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.5" fill="#808080">PESSOAS · PRODUTO · PROCESSOS · DADOS</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Manoel Gustavo — Recursos Humanos, Produto, Projetos, Agilidade e People Analytics</title>
+  <desc id="desc">Banner minimalista da identidade visual de Manoel Gustavo em branco, vermelho, verde lima e preto.</desc>
+
+  <rect width="1600" height="480" fill="#ffffff"/>
+
+  <!-- elementos gráficos minimalistas -->
+  <path d="M0 0H242C216 82 178 133 114 169C72 193 34 204 0 211Z" fill="#ffffff"/>
+  <path d="M0 0H225C205 72 172 117 116 150C77 173 39 184 0 190Z" fill="none" stroke="#c71717" stroke-width="3"/>
+  <circle cx="243" cy="54" r="13" fill="#c71717"/>
+
+  <path d="M1600 282C1563 295 1524 322 1494 359C1465 395 1447 434 1439 480" fill="none" stroke="#171717" stroke-width="3"/>
+  <circle cx="1528" cy="361" r="15" fill="#8fff00"/>
+
+  <!-- nome -->
+  <text x="800" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" fill="#111111">
+    Manoel <tspan fill="#c71717">Gustavo</tspan>
+  </text>
+
+  <!-- headline -->
+  <text x="800" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#181818">
+    Recursos Humanos <tspan fill="#c71717">•</tspan> Produto <tspan fill="#c71717">•</tspan> Projetos <tspan fill="#c71717">•</tspan> Agilidade <tspan fill="#c71717">•</tspan> People Analytics
+  </text>
+
+  <!-- acentos da IDV -->
+  <rect x="724" y="266" width="60" height="4" rx="2" fill="#c71717"/>
+  <rect x="798" y="266" width="60" height="4" rx="2" fill="#8fff00"/>
+
+  <!-- subtexto -->
+  <text x="800" y="318" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.4" fill="#606060">
+    Processos estruturados, produtos digitais e decisões orientadas por dados.
+  </text>
 </svg>
