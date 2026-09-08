@@ -1,6 +1,6 @@
-![Manoel Gustavo — RH, Produto, Projetos, Agilidade e People Analytics](./assets/banner.svg)
+![Manoel Gustavo Gomes Martins — RH, Produto, Projetos, Agilidade e People Analytics]
 
-# Manoel Gustavo
+# Manoel Gustavo Gomes Martins
 
 **Recursos Humanos · Produto · Projetos · Agilidade · People Analytics**
 
@@ -22,7 +22,7 @@ Necessidades · Escopo · Requisitos Funcionais · Stakeholders · Priorização
 Scrum · Kanban · Sprints · Gestão Visual · Mapeamento de Processos · Melhoria Contínua
 
 **Dados & Tecnologia**  
-People Analytics · Power BI · Python · SQL · IA aplicada a RH · HTML/CSS/JS
+People Analytics · Power BI · SQL · IA aplicada a RH · HTML/CSS
 
 ---
 
@@ -54,13 +54,13 @@ Produto digital voltado à comunicação interna, cultura e experiência do cola
 
 **Contexto → Problema → Usuários/Stakeholders → Necessidades → Minha atuação → Requisitos e fluxo → Solução → Indicadores → Valor potencial → Aprendizados**
 
-O foco está no **raciocínio de negócio, produto e processo**, usando tecnologia como meio para estruturar soluções e apoiar decisões.
+O foco está no **raciocínio de negócio, produto e processos**, usando tecnologia como meio para estruturar soluções e apoiar decisões.
 
 ---
 
 ## Tecnologias e abordagens
 
-`Power BI` · `SQL` · `Python` · `Scrum` · `Kanban` · `HTML` · `CSS` · `JavaScript`
+`Power BI` · `SQL` · `Scrum` · `Kanban` · `HTML` · `CSS`
 
 **People Analytics · Gestão de Projetos · Product Thinking · Mapeamento de Processos · IA aplicada a RH**
 
@@ -70,7 +70,7 @@ O foco está no **raciocínio de negócio, produto e processo**, usando tecnolog
 
 **MBA em Gestão de Projetos — USP/ESALQ** · em andamento  
 **Bacharelado em Psicologia — Faculdade Santa Teresa** · em andamento  
-**Gestão de Recursos Humanos — Faculdade Martha Falcão** · concluído
+**Gestão de Recursos Humanos — Faculdade Martha Falcão** · concluído em 06/2025
 
 Formação complementar em **People Analytics, IA aplicada a RH, Indicadores de T&D, Metodologias Ágeis e Análise de Dados**.
 
