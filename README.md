@@ -54,31 +54,28 @@ Produto digital voltado à comunicação interna, cultura e experiência do cola
 
 **Contexto → Problema → Usuários/Stakeholders → Necessidades → Minha atuação → Requisitos e fluxo → Solução → Indicadores → Valor potencial → Aprendizados**
 
-O foco está no **raciocínio de negócio, produto e processo**. Nos projetos demonstrativos, indicadores e dashboards conceituais são utilizados para representar possibilidades analíticas sem atribuir resultados reais que não tenham sido mensurados.
-
-### Stack e abordagens aplicadas
-
-**Produto & Projetos:** levantamento de necessidades · escopo · requisitos funcionais · priorização · stakeholders · experiência do usuário · indicadores  
-**Agilidade & Processos:** Scrum · Kanban · sprints · gestão visual · mapeamento de processos · melhoria contínua · OKRs  
-**Gestão de Pessoas:** T&D · Onboarding · Offboarding · Performance · Employee Experience · Comunicação Interna  
-**People Analytics & Dados:** Power BI · SQL · Python · indicadores · dashboards · pesquisa organizacional  
-**Soluções digitais:** HTML · CSS · JavaScript · IA aplicada a RH · automação de fluxos
-
-> **Nota de posicionamento:** os cases evidenciam competências transferíveis para Product Owner, Product Analyst, Agile Analyst e Agilidade. Não atribuo a mim experiências formais de Scrum Master ou Product Owner quando elas não ocorreram nesses cargos.
+O foco está no **raciocínio de negócio, produto e processo**, usando tecnologia como meio para estruturar soluções e apoiar decisões.
 
 ---
 
-## Formação e desenvolvimento
+## Tecnologias e abordagens
 
-- **MBA em Gestão de Projetos — USP/ESALQ** · em andamento
-- **Bacharelado em Psicologia — Faculdade Santa Teresa** · em andamento
-- **Gestão de Recursos Humanos — Faculdade Martha Falcão** · concluído
-- **Análise Técnica Comportamental DISC — Freedom Start** · certificado
+`Power BI` · `SQL` · `Python` · `Scrum` · `Kanban` · `HTML` · `CSS` · `JavaScript`
 
-Formação complementar em **People Analytics, ESG, Departamento Pessoal, Indicadores de T&D, IA aplicada a RH, Tech Recruiter, Metodologias Ágeis e Análise de Dados**.
+**People Analytics · Gestão de Projetos · Product Thinking · Mapeamento de Processos · IA aplicada a RH**
+
+---
+
+## Formação
+
+**MBA em Gestão de Projetos — USP/ESALQ** · em andamento  
+**Bacharelado em Psicologia — Faculdade Santa Teresa** · em andamento  
+**Gestão de Recursos Humanos — Faculdade Martha Falcão** · concluído
+
+Formação complementar em **People Analytics, IA aplicada a RH, Indicadores de T&D, Metodologias Ágeis e Análise de Dados**.
 
 ---
 
 ## Conecte-se comigo
 
-[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**Repositório de Projetos**](https://github.com/gustavomrtns/projetos_rh)
+[**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**Cases**](https://github.com/gustavomrtns/projetos_rh)
