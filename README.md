@@ -1,3 +1,5 @@
+![Manoel Gustavo — RH, Produto, Projetos, Agilidade e People Analytics](./assets/banner.svg)
+
 # Manoel Gustavo
 
 **Recursos Humanos · Produto · Projetos · Agilidade · People Analytics**
