@@ -20,38 +20,27 @@ Os projetos abaixo funcionam como **cases de negócio, pessoas, produto e proces
 
 ---
 
-## ⭐ Projeto flagship — GT360º
+## Projetos em destaque
 
-### Workspace de Gestão de Talentos
+### GT360º
+**Workspace de Gestão de Talentos**
 
-Concepção de workspace digital de Gestão de Talentos, partindo do **mapeamento de dores dos processos de onboarding e T&D** até a definição de **fluxos, requisitos funcionais, priorização de entregas, indicadores e experiência do usuário**. A solução integra essas duas frentes em um único ambiente, ampliando rastreabilidade, organização das informações e capacidade de acompanhamento da área.
+Solução digital voltada à organização de processos de onboarding e Treinamento & Desenvolvimento, estruturando fluxos, requisitos funcionais, priorização e indicadores em um único ambiente.
 
-**Problema trabalhado:** informações, etapas e controles de RH distribuídos em fluxos distintos, dificultando acompanhamento e visão gerencial.
+`Product Thinking` · `Gestão de Pessoas` · `Requisitos Funcionais` · `People Analytics`
 
-**Minha atuação:** identificação de necessidades · entendimento do problema · mapeamento de processos · desenho de fluxos · definição e organização de requisitos funcionais · priorização de entregas · alinhamento com stakeholders · experiência de uso · lógica de indicadores · estruturação da solução.
+[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
 
-**Competências demonstradas:** Product Thinking · Gestão de Projetos · Gestão de Pessoas · T&D · People Analytics · Processos · UX · Automação
+### eu + horizonte
+**Intranet · Employee Experience**
 
-[**Ver case completo →**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) &nbsp; [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
+Produto digital voltado à comunicação interna, cultura e experiência do colaborador, conectando informação, jornada e experiência de uso.
 
----
+`Employee Experience` · `Produto Digital` · `Comunicação` · `UX`
 
-## Cases em destaque
+[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/tree/main/eu-horizonte-intranet) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/eu-horizonte-intranet/)
 
-A ordem abaixo segue a **escala de impacto adotada no portfólio**.
-
-| # | Case | Problema / oportunidade | Solução desenvolvida | Competências demonstradas |
-|---|---|---|---|---|
-| **01** | **[GT360º — Workspace de Gestão de Talentos](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360)** | Processos de onboarding e T&D distribuídos em controles distintos | Workspace integrado com módulos de Onboarding e Painel de Treinamentos | Product Thinking · Requisitos · Priorização · Gestão de Pessoas · Dados · UX |
-| **02** | **[eu + horizonte — Intranet](https://github.com/gustavomrtns/projetos_rh/tree/main/eu-horizonte-intranet)** | Necessidade de centralizar comunicação e experiência interna | Intranet voltada à comunicação, cultura e jornada do colaborador | Employee Experience · Produto Digital · Comunicação · UX |
-| **03** | **[Pesquisa de Engajamento Organizacional](https://github.com/gustavomrtns/projetos_rh/tree/main/pesquisa-engajamento-organizacional)** | Aplicação, tabulação e análise de pesquisas internas em fluxos dispersos | Plataforma para construção, aplicação, recortes demográficos e dashboard analítico | Product Thinking · People Analytics · Engajamento · Dados · UX |
-| **04** | **[Quadro de Gestão — Kanban RH e Projetos](https://github.com/gustavomrtns/projetos_rh/tree/main/quadro-gestao-kanban)** | Baixa visibilidade sobre demandas, prioridades e responsáveis | Gestão visual por status, prioridades, responsáveis, sprints e checklists | Agilidade · Scrum/Kanban · Priorização · Gestão de Fluxo |
-| **05** | **[Checklist 5S](https://github.com/gustavomrtns/projetos_rh/tree/main/checklist-5s)** | Auditorias e controles de conformidade pouco padronizados | Aplicação digital para avaliação, registro e acompanhamento de resultados | Melhoria Contínua · Processos · Indicadores · Gestão Visual |
-| **06** | **[Questionário de Desligamento](https://github.com/gustavomrtns/projetos_rh/tree/main/questionario-desligamento)** | Feedbacks de saída pouco estruturados e difíceis de comparar | Instrumento digital para coleta e organização de dados de offboarding | Employee Experience · Pesquisa · Dados · Processos |
-| **07** | **[Avaliação de Prestadores — PJ](https://github.com/gustavomrtns/projetos_rh/tree/main/avaliacao-prestador-pj)** | Necessidade de critérios objetivos para acompanhamento de prestadores | Avaliação digital baseada em critérios contratuais e classificação de impacto | Governança · Stakeholders · Avaliação · Processos |
-| **08** | **[Avaliação de Experiência — CLT](https://github.com/gustavomrtns/projetos_rh/tree/main/avaliacao-experiencia-clt)** | Acompanhamento do período de experiência sem padronização | Ferramenta estruturada para avaliação, acompanhamento e apoio à decisão | Performance · Feedback · Gestão de Pessoas · Dados |
-
-[**Explorar todos os projetos →**](https://github.com/gustavomrtns/projetos_rh) &nbsp; [**Ver portfólio visual →**](https://gustavomrtns.github.io/projetos_rh/)
+[**Ver todos os projetos →**](https://github.com/gustavomrtns/projetos_rh)
 
 ---
 
