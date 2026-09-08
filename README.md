@@ -1,18 +1,10 @@
 # Manoel Gustavo
 
-### Recursos Humanos | Projetos | Produtos Digitais | Agilidade
+**Recursos Humanos · Produto · Projetos · Agilidade · People Analytics**
 
-**Gestão de Pessoas · Product & Agile · Projetos & Processos · People Analytics · Comportamento Organizacional**
+> Transformo necessidades de negócio em processos estruturados, produtos digitais e decisões orientadas por dados.
 
-Profissional com trajetória em **Recursos Humanos, Gestão de Projetos, Processos e Dados**, atuando na transformação de necessidades organizacionais em **fluxos estruturados, soluções digitais, requisitos, indicadores e experiências de uso**.
-
-Minha experiência reúne atuação em **Treinamento & Desenvolvimento, onboarding/offboarding, recrutamento, benefícios, Departamento Pessoal, clima, comunicação interna, projetos e People Analytics**, combinada a práticas de **Scrum, Kanban, priorização de entregas, mapeamento de processos e melhoria contínua**.
-
-Nos projetos digitais, atuo desde a **identificação do problema e entendimento das necessidades** até a organização de fluxos, requisitos funcionais, stakeholders, entregas e indicadores. Essa combinação sustenta uma evolução profissional abrangente em **Product Management, Product Owner, Agilidade e Scrum**, preservando meu domínio de negócio em Gestão de Pessoas.
-
-Busco desenvolver uma atuação que conecte **pessoas, produto, processos, comportamento e tecnologia**, apoiada por Psicologia Organizacional, Gestão de Projetos, Inovação e análise de dados. Possuo **inglês intermediário**.
-
-[**Portfólio Profissional**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Cases no GitHub**](https://github.com/gustavomrtns/projetos_rh)
+[**Portfólio**](https://gustavomrtns.github.io/projetos_rh/) · [**LinkedIn**](https://www.linkedin.com/in/manoel-gustavo/) · [**Cases**](https://github.com/gustavomrtns/projetos_rh)
 
 ---
 
