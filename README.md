@@ -27,14 +27,14 @@ People Analytics · Power BI · SQL · IA aplicada a RH · HTML/CSS
 
 ## Projetos em destaque
 
-### GT360º
+### GT360°
 **Workspace de Gestão de Talentos**
 
-Solução digital voltada à organização de processos de onboarding e Treinamento & Desenvolvimento, estruturando fluxos, requisitos funcionais, priorização e indicadores em um único ambiente.
+Workspace de Gestão de Talentos com nove módulos organizados em jornada do colaborador, engajamento e saúde organizacional, desenvolvimento de talentos e qualidade. Os módulos compartilham a navegação; nesta versão, os registros ficam no navegador de cada pessoa.
 
 `Product Thinking` · `Gestão de Pessoas` · `Requisitos Funcionais` · `People Analytics`
 
-[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/tree/main/gt360) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
+[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/blob/main/gt360/README.md) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/gt360/)
 
 ### eu + horizonte
 **Intranet · Employee Experience**
@@ -43,9 +43,19 @@ Produto digital voltado à comunicação interna, cultura e experiência do cola
 
 `Employee Experience` · `Produto Digital` · `Comunicação` · `UX`
 
-[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/tree/main/eu-horizonte-intranet) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/eu-horizonte-intranet/)
+[**Ver case →**](https://github.com/gustavomrtns/projetos_rh/blob/main/eu-horizonte-intranet/README.md) · [**Abrir aplicação →**](https://gustavomrtns.github.io/projetos_rh/eu-horizonte-intranet/)
 
 [**Ver todos os projetos →**](https://github.com/gustavomrtns/projetos_rh)
+
+---
+
+## Consultoria de carreira
+
+### Fluxo RH
+
+Consultoria voltada a profissionais em recolocação, transição e fortalecimento de seu posicionamento profissional.
+
+[**Conhecer a Fluxo RH →**](https://somosfluxorh.com.br/) · [**Ver repositório →**](https://github.com/gustavomrtns/fluxorh)
 
 ---
 
