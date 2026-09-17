@@ -49,16 +49,6 @@ Produto digital voltado à comunicação interna, cultura e experiência do cola
 
 ---
 
-## Consultoria de carreira
-
-### Fluxo RH
-
-Consultoria voltada a profissionais em recolocação, transição e fortalecimento de seu posicionamento profissional.
-
-[**Conhecer a Fluxo RH →**](https://somosfluxorh.com.br/) · [**Ver repositório →**](https://github.com/gustavomrtns/fluxorh)
-
----
-
 ## Como estruturo os cases
 
 **Contexto → Problema → Usuários/Stakeholders → Necessidades → Minha atuação → Requisitos e fluxo → Solução → Indicadores → Valor potencial → Aprendizados**
