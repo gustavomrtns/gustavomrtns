@@ -28,9 +28,9 @@ People Analytics · Power BI · SQL · IA aplicada a RH · HTML/CSS
 ## Projetos em destaque
 
 ### GT360°
-**Workspace de Gestão de Talentos**
+**Workspace de Gestão de Pessoas**
 
-Workspace de Gestão de Talentos com nove módulos organizados em jornada do colaborador, engajamento e saúde organizacional, desenvolvimento de talentos e qualidade. Os módulos compartilham a navegação; nesta versão, os registros ficam no navegador de cada pessoa.
+Workspace de Gestão de Pessoas com nove módulos organizados em jornada do colaborador, engajamento e saúde organizacional, desenvolvimento e qualidade. Os módulos compartilham a navegação e um estado demonstrativo temporário em memória (`demoStore`). As alterações são descartadas ao recarregar a página; não há backup/restauração nem sincronização entre pessoas ou dispositivos.
 
 `Product Thinking` · `Gestão de Pessoas` · `Requisitos Funcionais` · `People Analytics`
 
